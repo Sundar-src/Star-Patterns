@@ -10,6 +10,7 @@ This repository contains various star pattern programs implemented in **JavaScri
 - Diamond Patterns
 - Hollow Patterns
 - Other creative star patterns
+- Floyd's Triangle
 
 ## 🚀 Getting Started
 To run these patterns on your local machine:
